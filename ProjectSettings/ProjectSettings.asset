@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: b505b1c9c2e363c4bac60c9577447ce7
+  productGUID: 975fa6065ab1c444aa9080640c46b4b7
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -850,14 +850,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: 114_2-MR-app-main
+  metroPackageName: MR-App
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: 114_2-MR-app-main
+  metroApplicationDescription: MR-App
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
